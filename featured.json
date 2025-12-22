@@ -1,0 +1,47 @@
+{
+  "date": "2025-01-10",
+  "items": [
+    {
+      "id": "sip-savor-chicago-il",
+      "name": "Sip & Savor Coffee",
+      "city": "Chicago",
+      "state": "IL",
+      "category": "Coffee shop",
+      "whyFeatured": "A newly opened Black-owned coffee shop bringing community, culture, and carefully sourced brews to the South Side.",
+      "openedRecently": true,
+      "website": "https://example.com",
+      "instagram": "https://instagram.com/example",
+      "googleMapsUrl": null,
+      "imageUrl": null,
+      "socials": {
+        "instagramCaption": "LOOK FOR BOB ☕️\n\nSip & Savor just opened in Chicago.\nCommunity-first coffee done right.\n\nSave this spot + follow @lookforbob\n#BlackOwnedBusiness #lookforbob #ChicagoCoffee",
+        "shortsHook": [
+          "Chicago coffee lovers need this new spot",
+          "New Black-owned coffee shop just opened",
+          "Add this Chicago coffee shop to your list"
+        ]
+      }
+    },
+    {
+      "id": "rooted-wellness-atlanta-ga",
+      "name": "Rooted Wellness Co.",
+      "city": "Atlanta",
+      "state": "GA",
+      "category": "Wellness studio",
+      "whyFeatured": "A new Black-owned wellness studio focused on healing, breathwork, and intentional rest.",
+      "openedRecently": true,
+      "website": "https://example.com",
+      "instagram": "https://instagram.com/example",
+      "googleMapsUrl": null,
+      "imageUrl": null,
+      "socials": {
+        "instagramCaption": "LOOK FOR BOB 🌱\n\nRooted Wellness just opened in Atlanta.\nHealing spaces matter.\n\nSave, share & follow @lookforbob\n#BlackOwnedBusiness #lookforbob #AtlantaWellness",
+        "shortsHook": [
+          "Atlanta just got a new wellness space",
+          "This Black-owned wellness studio just opened",
+          "Add this Atlanta wellness spot to your list"
+        ]
+      }
+    }
+  ]
+}
