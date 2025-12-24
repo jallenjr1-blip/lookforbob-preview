@@ -22,26 +22,25 @@
     ]
   }
 },
-    {
-      "id": "rooted-wellness-atlanta-ga",
-      "name": "Rooted Wellness Co.",
-      "city": "Atlanta",
-      "state": "GA",
-      "category": "Wellness studio",
-      "whyFeatured": "A new Black-owned wellness studio focused on healing, breathwork, and intentional rest.",
-      "openedRecently": true,
-      "website": "https://example.com",
-      "instagram": "https://instagram.com/example",
-      "googleMapsUrl": null,
-      "imageUrl": null,
-      "socials": {
-        "instagramCaption": "LOOK FOR BOB 🌱\n\nRooted Wellness just opened in Atlanta.\nHealing spaces matter.\n\nSave, share & follow @lookforbob\n#BlackOwnedBusiness #lookforbob #AtlantaWellness",
-        "shortsHook": [
-          "Atlanta just got a new wellness space",
-          "This Black-owned wellness studio just opened",
-          "Add this Atlanta wellness spot to your list"
-        ]
-      }
-    }
-  ]
+{
+  "id": "rooted-wellness-atlanta-ga",
+  "name": "Deeply Rooted Wellness",
+  "city": "Atlanta",
+  "state": "GA",
+  "category": "Wellness",
+  "whyFeatured": "A Black-owned wellness space centered on healing, breathwork, and intentional rest — a reminder to slow down and take care of ourselves.",
+  "openedRecently": false,
+  "website": "https://example.com",
+  "instagram": "https://instagram.com/example",
+  "googleMapsUrl": null,
+  "imageUrl": null,
+  "socials": {
+    "instagramCaption": "LOOK FOR BOB 🌿\n\nDeeply Rooted Wellness in Atlanta is a Black-owned space centered on rest + healing.\n\nSave this for later + follow @lookforbob\n#BlackOwnedBusiness #lookforbob #AtlantaWellness",
+    "shortsHook": [
+      "Atlanta: save this Black-owned wellness spot",
+      "A reminder to rest — Deeply Rooted Wellness",
+      "Add this Atlanta wellness space to your list"
+    ]
+  }
 }
+
