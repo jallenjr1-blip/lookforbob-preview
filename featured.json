@@ -1,27 +1,28 @@
 {
-  "date": "2025-01-10",
+  "date": "2025-12-24",
   "items": [
     {
-      "id": "sip-savor-chicago-il",
-      "name": "Sip & Savor Coffee",
-      "city": "Chicago",
-      "state": "IL",
-      "category": "Coffee shop",
-      "whyFeatured": "A newly opened Black-owned coffee shop bringing community, culture, and carefully sourced brews to the South Side.",
-      "openedRecently": true,
-      "website": "https://example.com",
-      "instagram": "https://instagram.com/example",
-      "googleMapsUrl": null,
-      "imageUrl": null,
-      "socials": {
-        "instagramCaption": "LOOK FOR BOB ☕️\n\nSip & Savor just opened in Chicago.\nCommunity-first coffee done right.\n\nSave this spot + follow @lookforbob\n#BlackOwnedBusiness #lookforbob #ChicagoCoffee",
-        "shortsHook": [
-          "Chicago coffee lovers need this new spot",
-          "New Black-owned coffee shop just opened",
-          "Add this Chicago coffee shop to your list"
-        ]
-      }
-    },
+  "id": "sip-savor-chicago-il",
+  "name": "Sip & Savor",
+  "city": "Chicago",
+  "state": "IL",
+  "category": "Coffee shop",
+  "whyFeatured": "A beloved Black-owned coffee shop known for great coffee, community energy, and multiple Chicago locations serving the South Side and beyond.",
+  "openedRecently": false,
+  "website": "https://sipandsavorchicago.com",
+  "instagram": "https://www.instagram.com/sipandsavorchicago",
+  "googleMapsUrl": null,
+  "imageUrl": null,
+  "socials": {
+    "instagramCaption": "LOOK FOR BOB ☕️\n\nSip & Savor is a Chicago staple — great coffee, real community, and Black-owned.\n\nSave this spot + follow @lookforbob\n#BlackOwnedBusiness #lookforbob #ChicagoCoffee",
+    "shortsHook": [
+      "Chicago coffee lovers already know this spot",
+      "A Black-owned coffee staple in Chicago",
+      "Add Sip & Savor to your Chicago coffee list"
+    ]
+  }
+}
+,
     {
       "id": "rooted-wellness-atlanta-ga",
       "name": "Rooted Wellness Co.",
